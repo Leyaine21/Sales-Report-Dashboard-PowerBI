@@ -73,4 +73,5 @@ Through this project, I learned how to:
 
 ## Author
 Leyaine Mungani
+
 Aspiring Data Analyst with skills in Power BI, SQL, Excel, and Python.
