@@ -3,7 +3,15 @@
 This project is an interactive Sales Report Dashboard developed using Microsoft Power BI. The dashboard provides a visual overview of sales performance across different categories, regions, and time periods, enabling users to identify trends and monitor key business metrics. As my first Power BI project, this dashboard helped me gain practical experience in data modeling, data visualization, report design, and business intelligence reporting.
 
 ## Dashboard Preview
-(SCREENSHOT)
+<img width="968" height="543" alt="dashboard overview " src="https://github.com/user-attachments/assets/4f2316b6-87c7-4510-950b-51dcfc1e6e6b" />
+
+<img width="481" height="235" alt="sales by category scrn" src="https://github.com/user-attachments/assets/9540c065-fd9f-4cc1-8790-01e3b825b93b" />
+
+<img width="339" height="221" alt="monthly sales table" src="https://github.com/user-attachments/assets/d64bb860-c4da-4a50-9cc5-848d5c7b5c9c" />
+
+<img width="480" height="229" alt="quatity by month line chart" src="https://github.com/user-attachments/assets/13172dd4-371c-4b88-b00a-7754117e8b3d" />
+
+<img width="481" height="204" alt="sales by privince map" src="https://github.com/user-attachments/assets/b116fe1f-c23d-4bed-874b-28c31f1d92b2" />
 
 ## Project Objectives 
  - Analyze sales performance across multiple categories.
